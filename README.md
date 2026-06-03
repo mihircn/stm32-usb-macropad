@@ -123,7 +123,7 @@ The Python configurator provides:
 ## Project Structure
 
 ```text
-Firmware/
+stm32/
 ├── Core/
 ├── Drivers/
 ├── USB/
@@ -133,7 +133,7 @@ Firmware/
 ├── cdc_handler.c
 └── ...
 
-Configurator/
+app/
 ├── main.py
 ├── services/
 ├── ui/
